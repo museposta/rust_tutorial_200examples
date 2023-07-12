@@ -1,0 +1,3 @@
+dosyada egerçekten bir yazı yoktu
+bir şeyler ekledim şimdi
+file has some content
